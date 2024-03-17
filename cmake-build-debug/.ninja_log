@@ -1,0 +1,15 @@
+# ninja log v5
+4	2508	1710716631993984608	build.ninja	6f56634f5f90aafe
+30	257	1710715875656597271	untitled86_autogen/timestamp	50326edcbc12802b
+30	257	1710715875656597271	/Users/local.user/CLionProjects/untitled86/cmake-build-debug/untitled86_autogen/mocs_compilation.cpp	50326edcbc12802b
+8465	9422	1710715884808231955	untitled86	97537f6d641245d0
+30	257	1710715875656597271	untitled86_autogen/mocs_compilation.cpp	50326edcbc12802b
+30	257	1710715875656597271	/Users/local.user/CLionProjects/untitled86/cmake-build-debug/untitled86_autogen/timestamp	50326edcbc12802b
+3	2073	1710716663829077464	Catch-the-ball_autogen/timestamp	44ee979f938cba65
+3	2073	1710716663829077464	Catch-the-ball_autogen/mocs_compilation.cpp	44ee979f938cba65
+3	2073	1710716663829077464	/Users/local.user/CLionProjects/Catch-the-ball1/cmake-build-debug/Catch-the-ball_autogen/timestamp	44ee979f938cba65
+3	2073	1710716663829077464	/Users/local.user/CLionProjects/Catch-the-ball1/cmake-build-debug/Catch-the-ball_autogen/mocs_compilation.cpp	44ee979f938cba65
+2074	7163	1710716668918615596	CMakeFiles/Catch-the-ball.dir/Catch-the-ball_autogen/mocs_compilation.cpp.o	ac25aa982a5d9f72
+2073	7179	1710716668918717742	CMakeFiles/Catch-the-ball.dir/main.cpp.o	1fab6e83a564a89c
+2074	7227	1710716668988471522	CMakeFiles/Catch-the-ball.dir/mainwindow.cpp.o	598b15aaa595f4c7
+7227	8012	1710716669782351823	Catch-the-ball	551a73beb68b31c1

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Catch-the-ball",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Catch-the-ball::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Catch-the-ball-Debug-7f1ac4b30d0cc1344413.json",
+					"name" : "Catch-the-ball",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Catch-the-ball_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Catch-the-ball_autogen-Debug-b0503b935cce16888542.json",
+					"name" : "Catch-the-ball_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Catch-the-ball_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Catch-the-ball_autogen_timestamp_deps-Debug-7c56d1ecc7f170011f74.json",
+					"name" : "Catch-the-ball_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/local.user/CLionProjects/Catch-the-ball1/cmake-build-debug",
+		"source" : "/Users/local.user/CLionProjects/Catch-the-ball1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
